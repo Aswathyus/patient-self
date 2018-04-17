@@ -97,7 +97,7 @@
                 <table style="">
                 <tr>
                     <td><input type="submit" value="SAVE" /></td>
-                    <td><a style="font-size:medium;font-weight: bold;color:red;" href="fixoperation.jsp">Fixed Date for Operation</a></td>
+                    <td><a style="font-size:medium;font-weight: bold;color:red;" href="view_operation.jsp">View Operation</a></td>
                     <td><input type="reset" value="CANCEL" /></td>
                     <td></td>
                     <td></td>
